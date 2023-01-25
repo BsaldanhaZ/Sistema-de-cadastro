@@ -9,8 +9,7 @@
 Para rodar esse projeto na sua máquina, por favor digite:
 
 ``````
-NPM INSTALL REACT
-
+NODE APP.JS
 ``````
 # :hammer: Funcionalidades do projeto
 
